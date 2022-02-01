@@ -1,0 +1,1 @@
+from .IndexPage import IndexPage
